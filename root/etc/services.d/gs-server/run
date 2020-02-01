@@ -1,4 +1,4 @@
-#!/usr/bin/with-contenv bash
+#!/usr/bin/env bash
 
 echo "${ECHO_PREFIX} Running gs-server as ${GS_SERVER_USER}"
 echo "${ECHO_PREFIX} -> Configuration files at ${DIRECTORY_CONFIG}"
