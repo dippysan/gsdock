@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM lsiobase/ubuntu:xenial
 LABEL maintainer "shrmnk <shrmnk@users.noreply.github.com>"
 
 # Exit container if we cannot assume UID/GID
