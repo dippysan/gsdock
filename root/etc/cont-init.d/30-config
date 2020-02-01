@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/with-contenv bash
 
 PATH_SETTINGS="${DIRECTORY_CONFIG}/settings.tix"
 
