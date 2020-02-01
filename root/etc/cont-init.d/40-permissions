@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/with-contenv bash
 
 # Check folder permissions
 PUID=${PUID:-911}
