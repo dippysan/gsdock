@@ -6,6 +6,8 @@
 
 When run, the **latest available 64-bit** release will be downloaded from the GoodSync website.
 
+Based on [wattie2k1](https://github.com/wattie2k1/gsdock) in turn based on [shrmnk](https://github.com/shrmnk/gsdock)
+
 As of October 2018 build, GSTP protocol version 3 is supported.
 
 ## Updates to Configuration (22 November 2018)
